@@ -1,0 +1,14 @@
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\bin\Debug\net8.0\CRC32Checksum.exe
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\bin\Debug\net8.0\CRC32Checksum.deps.json
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\bin\Debug\net8.0\CRC32Checksum.runtimeconfig.json
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\bin\Debug\net8.0\CRC32Checksum.dll
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\bin\Debug\net8.0\CRC32Checksum.pdb
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.AssemblyInfoInputs.cache
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.AssemblyInfo.cs
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.csproj.CoreCompileInputs.cache
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.dll
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\refint\CRC32Checksum.dll
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.pdb
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\CRC32Checksum.genruntimeconfig.cache
+C:\Users\User\Projektit\Math stuff\CRC32Checksum\obj\Debug\net8.0\ref\CRC32Checksum.dll
