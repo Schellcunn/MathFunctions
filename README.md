@@ -1,2 +1,2 @@
 # MathFunctions
-contians scripts to run some mathematical tasks
+Contains scripts to run some mathematical tasks
